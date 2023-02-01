@@ -1,0 +1,15 @@
+{
+  "name": "api_cypress",
+  "version": "1.0.0",
+  "description": "This is dummy API automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.34.1",
+    "cypress": "^12.5.0"
+  }
+}

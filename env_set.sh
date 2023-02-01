@@ -1,0 +1,1 @@
+export HTTP_PROXY=http://squid.corp.redhat.com:3128
